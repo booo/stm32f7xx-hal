@@ -98,6 +98,7 @@ pub mod dac;
         feature = "stm32f732",
         feature = "stm32f733",
         feature = "stm32f746",
+        feature = "stm32f765",
         feature = "stm32f767",
     )
 ))]
@@ -112,6 +113,7 @@ pub mod otg_fs;
         feature = "stm32f732",
         feature = "stm32f733",
         feature = "stm32f746",
+        feature = "stm32f765",
         feature = "stm32f767",
     )
 ))]
